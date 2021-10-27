@@ -1,0 +1,26 @@
+
+case 1 :
+    Enter the Directory path.
+    /home/arvinc/play-ground
+    Enter the filename or file-extention to search
+    .txt
+    File found at : /home/arvinc/play-ground/hello.txt
+
+
+case 2 :
+    Enter the Directory path.
+    /home/arvinc/play-ground
+    Enter the filename or file-extention to search
+    hello
+    File found at : /home/arvinc/play-ground/hello.txt
+
+
+case 3 :
+       Enter the Directory path.
+       /home/arvinc/play-ground
+       Enter the filename or file-extention to search
+       .jpg
+       File not found
+
+
+

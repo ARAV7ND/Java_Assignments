@@ -1,0 +1,10 @@
+case 1 :
+   Enter a string :
+   ABCDEfghijklmnopqrstUVWXYZ
+   Given string contains All Alphabets
+
+
+case 2 :
+    Enter a string :
+    AbcdefGmnj
+    Given string does not contains All Alphabets

@@ -1,0 +1,9 @@
+case 1:
+    Enter a string :
+    Welcome to zemoso.
+    true
+
+case 2:
+    Enter a string :
+    welcome to zemoso.
+    false    // it prints false because sentence is starting with lower case letter

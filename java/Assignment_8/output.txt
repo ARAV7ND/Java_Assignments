@@ -1,0 +1,23 @@
+
+case 1 :
+    Enter age :
+    10
+    Your Eligible..!
+    Enter gender :
+    male
+    your eligible
+    Enter Account type :
+    savings
+    your about to open the account
+    Thank you
+
+
+case 2 :
+    Enter age :
+    10
+    Your Eligible..!
+    Enter gender :
+    null  // it leads to null pointer exception but finally is invoked even if nullPointerException is caught
+    Exception occured : Assignment_8.InvalidGenderException: Invalid gender to open the Account
+    finally : Thank you
+

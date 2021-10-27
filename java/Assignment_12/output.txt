@@ -1,0 +1,61 @@
+Name of the departments :
+Computer Science
+Mechanical
+Electronic
+Electrical
+Textile
+Security
+Chemical
+Electric
+
+Students who enrolled after 2018 :
+Jasna Kaur
+Sanvi Pandey
+
+Details of all Male students in computer science
+ Id : 122, Name : Paul Niksui, Age : 18, Gender : Male, Department : Mechanical, Enrollment Year : 2016, Percentage : 50.2
+ Id : 133, Name : Martin Theron, Age : 17, Gender : Male, Department : Electronic, Enrollment Year : 2017, Percentage : 90.3
+ Id : 144, Name : Murali Gowda, Age : 18, Gender : Male, Department : Electrical, Enrollment Year : 2018, Percentage : 80.0
+ Id : 166, Name : Iqbal Hussain, Age : 18, Gender : Male, Department : Security, Enrollment Year : 2016, Percentage : 70.0
+ Id : 177, Name : Manu Sharma, Age : 16, Gender : Male, Department : Chemical, Enrollment Year : 2018, Percentage : 70.0
+ Id : 188, Name : Wang Liu, Age : 20, Gender : Male, Department : Computer Science, Enrollment Year : 2015, Percentage : 80.0
+ Id : 200, Name : Jaden Dough, Age : 18, Gender : Male, Department : Security, Enrollment Year : 2015, Percentage : 82.0
+ Id : 222, Name : Nitin Joshi, Age : 19, Gender : Male, Department : Textile, Enrollment Year : 2016, Percentage : 60.4
+ Id : 244, Name : Nicolus Den, Age : 16, Gender : Male, Department : Electronic, Enrollment Year : 2017, Percentage : 95.8
+ Id : 255, Name : Ali Baig, Age : 17, Gender : Male, Department : Electronic, Enrollment Year : 2018, Percentage : 88.4
+ Id : 277, Name : Anuj Chettiar, Age : 18, Gender : Male, Department : Computer Science, Enrollment Year : 2017, Percentage : 57.5
+
+Total number of males and females are :
+Male : 11, Female : 6
+
+The Average of ages based on genders
+Avg age of Male : 17.727272727272727, Avg age of Female : 17.833333333333332
+
+Highest percentage is : 95.8
+
+count of students in each dept :
+Chemical : 1
+Textile : 2
+Mechanical : 1
+Computer Science : 5
+Electric : 1
+Electronic : 4
+Electrical : 1
+Security : 2
+
+Average percentage of each department :
+Chemical : 70.0
+Textile : 65.2
+Mechanical : 50.2
+Computer Science : 67.78
+Electric : 72.4
+Electronic : 89.375
+Electrical : 80.0
+Security : 76.0
+
+The youngest male student in Electronic department is :
+ Id : 244, Name : Nicolus Den, Age : 16, Gender : Male, Department : Electronic, Enrollment Year : 2017, Percentage : 95.8
+
+Total no. of Males : 2, Females : 3
+
+Process finished with exit code 0
